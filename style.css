@@ -1,6 +1,6 @@
 @font-face {
     font-family: "Roboto";
-    src: url("assets/Roboto-Black.ttf");
+    src: url("assets/Roboto-Light.ttf");
 }
 
 * {
@@ -30,6 +30,11 @@ body {
 
 .main {
     background-color: #E2E8F0;
+    padding: 10px;
+}
+
+.header {
+    padding: 10px;
 }
 
 svg {
